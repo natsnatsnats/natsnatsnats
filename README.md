@@ -8,7 +8,7 @@ Meu nome é Natan, tenho 16 anos. Atualmente curso ensino médio técnico em des
 
 ---
 
-### 💼 Tecnologias
+### 💼 Linguagens
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
