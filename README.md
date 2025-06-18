@@ -16,6 +16,7 @@ Meu nome é Natan, tenho 16 anos. Atualmente curso ensino técnico em desenvolvi
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="![png-transparent-microsoft-azure-sql-database-microsoft-sql-server-azure-sql-data-warehouse-logo-text-logo-microsoft-azure-thumbnail](https://github.com/user-attachments/assets/4fa6be78-b31d-473c-8fe7-b000c19c0edb)" height="50" />
   <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" height="50" alt="Portugol Studio" title="Portugol Studio" />
 </p>
 
