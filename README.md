@@ -14,12 +14,9 @@ Meu nome é Natan, tenho 16 anos. Atualmente curso ensino técnico em desenvolvi
 ### 💼 Tecnologias
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" />
+  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" height="50" alt="Portugol Studio" title="Portugol Studio" />
 </p>
 
 ---
@@ -30,6 +27,11 @@ Meu nome é Natan, tenho 16 anos. Atualmente curso ensino técnico em desenvolvi
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/OneNote-7719AA?style=flat&logo=onenote&logoColor=white" />
 </p>
 
 ---
