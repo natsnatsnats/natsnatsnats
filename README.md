@@ -4,10 +4,11 @@ Meu nome é Natan, tenho 16 anos. Atualmente curso ensino técnico em desenvolvi
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LeehXD&show_icons=true&theme=radical&hide_title=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeehXD&layout=compact&theme=radical" height="160"/>
-</p>
+<table>
+  <a href="https://github.com/natsnatsnats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natsnatsnats&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natsnatsnats&layout=compact&langs_count=6&theme=tokyonight"/>
+</table>
 
 ---
 
