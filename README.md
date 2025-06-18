@@ -37,10 +37,10 @@ Meu nome é Natan, tenho 16 anos. Atualmente curso ensino médio técnico em des
 ### 📬 Redes Sociais e Contato
 
 <p>
-  <a href="https://www.instagram.com/seuusuario" target="_blank">
+  <a href="https://www.instagram.com/nats_alvs" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:natscoisaseria@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/natan-alves-pena-127411370/" target="_blank">
