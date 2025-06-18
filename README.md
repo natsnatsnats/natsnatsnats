@@ -4,7 +4,7 @@ Meu nome é Natan, tenho 16 anos. Atualmente curso ensino médio técnico em des
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natsnatsnats&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natsnatsnats&hide_border=false&layout=compact&theme=default&bg_color=0D1117&title_color=9D79D6&text_color=ffffff&icon_color=9D79D6)
 
 ---
 
