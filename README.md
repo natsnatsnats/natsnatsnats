@@ -1,6 +1,6 @@
 ## Olá
 
-Meu nome é Natan, tenho 16 anos. Atualmente curso ensino médio técnico em desenvolvimento de sistemas no Senac MédioTec Pernambuco. Me interesso muito pela área de tecnologia e sempre busco aprender mais.
+ Meu nome é Natan, tenho 16 anos. Atualmente curso ensino médio técnico em desenvolvimento de sistemas no Senac MédioTec Pernambuco. Me interesso muito pela área de tecnologia e sempre busco aprender mais.
 
 ---
 
